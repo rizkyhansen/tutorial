@@ -1,3 +1,3 @@
 # tutorial
-
-tutorial instal openjdk@11
+berisikan tutorial
+1. tutorial instal openjdk@11
